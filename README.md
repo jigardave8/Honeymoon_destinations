@@ -8,12 +8,12 @@
 # <h1>Honeymoon destinations</h1> 
 <h2> Beautiful iOS App for swiping and choosing your perfect honeymoon destination in Tinder style app made with SwiftUI  . </h2>
 
-![Optional Text]()
+![Optional Text](https://user-images.githubusercontent.com/13096575/123513933-9278ab00-d6ad-11eb-8a8a-46589a5b2b6a.png) 
 
 
 
 <p align="center"> </P>
-   <img src=”()”>
+   <img src=”(https://user-images.githubusercontent.com/13096575/123513933-9278ab00-d6ad-11eb-8a8a-46589a5b2b6a.png)”>
 
 FIND THE BEST MATCH :
 You can compare all the travel destination with our app & select the best suitable honeymoon resort for you. Honeymoon destinations app  is a unique app to discover best places in the world.
@@ -27,10 +27,10 @@ Honeymoon app travel is free and easy app with photos.
 
 <h2>Features: </h2>
 
-1. 
-2. 
-3. 
-4. Great graphics and sounds
+1. Great UI/UX with New swiftUI
+2. Swiping options and booking option
+3. Tinder Style swipes, choose from numerous honeymoon destinations
+4. Sleek UI and sound
 5. PerfectApp to find the honeymoon destination without wifi - works perfect even without network, offline
 
    
